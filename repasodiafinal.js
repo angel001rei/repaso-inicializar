@@ -1,2 +1,2 @@
 let repaso = 10 
-const = 100
+const otro = 100
