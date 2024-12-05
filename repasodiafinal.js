@@ -1,2 +1,4 @@
-let repaso = 10 
-const = 100
+let repaso = 10;
+const edad = 100;
+/*bocbowbwbocw
+cbwjeubwj*/
